@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Harbor Light Community Center</title> 
+</head> 
+<body> 
+<font face="Arial, sans-serif"> 
+<header> 
+<center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
+Logo"> 
+Welcome to Harbor Light Community Center</center> 
+</header>
+<div>
+<ul>
+<a
+href="#Home |"<li>Home |</li></a>
+<a
+href="#About |"<li>About |</li></a>
+<a
+href="#Services |"<li> Services|</li></a>
+<a
+href="#Events |"<li>Events |</li></a>
+<a
+href="#Contact |"<li>Contact |</li></a>
+</ul> 
+Home | About | Services | Events | Contact 
+</div> 
+<div class="banner"> 
+<img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
+alt="Decorative Banner"> 
+</div> 
+<section>
+<main>
+<h2>About Us</h2> 
+<p>The Harbor Light Community Center has been at the heart of our community for over 
+30 years, offering a wide range of services and programs designed to support and enrich the lives 
+of our residents.</p> 
+<p><img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" 
+hspace="10" vspace="10"></p> 
+</section> 
+<section> 
+<h2>Our Services</h2> 
+<p>From educational workshops and sports leagues to wellness programs and art classes, 
+our services are tailored to meet the diverse needs of our community members.</p> 
+</section> 
+<section> 
+<h2>Join Our Events</h2> 
+<p>Our community center is a hub of activity, hosting events throughout the year. Don't 
+miss our annual summer festival for fun, food, and festivities for all ages.</p>
+</main>
+<br> 
+<p>Annual Summer Festival: </p>
+Starts: July 20, 2050 
+</section> 
+<footer> 
+Contact Us 
+<p>Have questions or want to get involved? Email us!</p> 
+</footer> 
+</font> 
+</body> 
+</html>
