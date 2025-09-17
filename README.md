@@ -23,7 +23,6 @@ href="#Events |"<li>Events |</li></a>
 <a
 href="#Contact |"<li>Contact |</li></a>
 </ul> 
-Home | About | Services | Events | Contact 
 </div> 
 <div class="banner"> 
 <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
@@ -50,7 +49,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 </main>
 <br> 
 <p>Annual Summer Festival: </p>
-Starts: July 20, 2050 
+Starts: <time>July 20, 2050</time> 
 </section> 
 <footer> 
 Contact Us 
